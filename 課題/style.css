@@ -1,0 +1,29 @@
+main
+{
+    text-align: center;
+}
+
+#omikuji_btn
+{
+    margin-top: 10px;
+}
+
+.karender
+{
+    margin-top: 10px;
+}
+
+
+
+.header
+{
+    background-color: rgb(203, 202, 200);
+    height: 90px;
+}
+
+.title
+{
+    text-align: center;
+    vertical-align: middle;
+    font-size:  1.5em;   
+}
